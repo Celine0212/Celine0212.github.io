@@ -946,6 +946,7 @@ ul.portfolio-image li .desc{
 .wrap-about .w-content td{
   font-size: 13px;
   font-weight: 300;
+  white-space: nowrap;
 }
 .wrap-about .w-content td.title{
   padding-right: 10px;
